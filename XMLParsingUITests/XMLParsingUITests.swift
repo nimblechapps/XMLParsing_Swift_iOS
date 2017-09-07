@@ -2,8 +2,8 @@
 //  XMLParsingUITests.swift
 //  XMLParsingUITests
 //
-//  Created by Uber - Sivajee Battina on 30/08/17.
-//  Copyright © 2017 Uber. All rights reserved.
+//  Created by Nimblechapps - iOS on 30/08/17.
+//  Copyright © 2017 Nimblechapps. All rights reserved.
 //
 
 import XCTest

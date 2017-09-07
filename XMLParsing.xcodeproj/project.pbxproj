@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					AC0400131F572FA500B324CA = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 787A32Z7PE;
 						ProvisioningStyle = Automatic;
 					};
 					AC0400271F572FA500B324CA = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 787A32Z7PE;
 				INFOPLIST_FILE = XMLParsing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.XMLParsing;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 787A32Z7PE;
 				INFOPLIST_FILE = XMLParsing/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.XMLParsing;
