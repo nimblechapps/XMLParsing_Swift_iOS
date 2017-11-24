@@ -1,0 +1,31 @@
+# Parsing XML Web Service in iOS With Swift
+
+#### Introduction
+
+Day by day the data is tremendously increasing and making it difficult to express in a simple format. There should be some standard formats of the data coming from the server in order to pick the right values from the huge amount of data. The most familiar way of expressing data, coming from server is either by JSON or XML. If you need a step by step explanation of the topic, you can check our article here: [Parsing XML Web Service in iOS With Swift](https://insights.nimblechapps.com/app-development/ios-app-development/parsing-xml-web-service-ios-swift)
+
+#### Implemented using following elements:
+
+1. XMLParser (part of iOS SDK)
+2. Swift 3.0
+3. XCode 8.3
+
+#### Final output
+<br/>
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/09/How-to-Parse-XML-Web-Service-in-iOS-With-Swift.png)](https://insights.nimblechapps.com/app-development/ios-app-development/parsing-xml-web-service-ios-swift)
+
+This tutorial has been presented by Nimblechapps - The coolest [iPhone App Development Company](https://www.nimblechapps.com/ios-app-development-company). Checkout our [iPhone app development portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs
+
+ 1. [Be Awesome with ‘Font Awesome’](https://insights.nimblechapps.com/app-development/ios-app-development/awesome-font-ios)
+ 2. [How to Make Tinder-like Swipe Gesture for iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-make-tinder-like-swipe-gesture-for-ios)
+ 3. [How to work with BLE Devices on iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-work-with-ble-devices-on-ios)
+ 4. [How to Use Firebase to Send Notifications in iOS](https://insights.nimblechapps.com/app-development/ios-app-development/how-to-use-firebase-to-send-notifications-in-ios)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
